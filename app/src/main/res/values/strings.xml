@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Wishlist3</string>
+    <string name="grocerywishlistitems">GroceryWishlistItems</string>
+    <string name="price_items">Price items</string>
+    <string name="website">website</string>
+    <string name="www_grcerywishlist_com">www.GrceryWishlist.com</string>
+    <string name="grocerywishlistitems3">GroceryWishlistItems</string>
+    <string name="grocerywishlist_price">GroceryWishList Price</string>
+</resources>
